@@ -125,7 +125,7 @@ export default function Portfolio() {
           className="w-full md:w-1/3"
         >
           <div className="rounded-2xl overflow-hidden shadow-2xl border border-cyan-400/20 hover:shadow-cyan-400/50 transition-shadow">
-            <img src="/src/assets/mee.jpg" alt="Hero" className="w-full h-56 object-cover" />
+            <img src="/mee.jpg" alt="Hero" className="w-full h-56 object-cover" />
             <div className="p-4 bg-black/40 backdrop-blur-sm">
               <h3 className="font-semibold text-cyan-400">Full-Stack Developer</h3>
               <p className="text-sm text-gray-400">
